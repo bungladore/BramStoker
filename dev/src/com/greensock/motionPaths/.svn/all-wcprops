@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/motionPaths
+END
+Direction.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/motionPaths/Direction.as
+END
+LinePath2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/motionPaths/LinePath2D.as
+END
+MotionPath.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/motionPaths/MotionPath.as
+END
+CirclePath2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/motionPaths/CirclePath2D.as
+END
+RectanglePath2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/motionPaths/RectanglePath2D.as
+END
+PathFollower.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/motionPaths/PathFollower.as
+END

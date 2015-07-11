@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/sfm_horror_manuscript/!svn/ver/80/BramStoker/src/com/bramstoker/view/mediator
+END
+TitleViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/view/mediator/TitleViewMediator.as
+END
+MediaPlayerButtonViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/view/mediator/MediaPlayerButtonViewMediator.as
+END
+MediaPlayerViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sfm_horror_manuscript/!svn/ver/90/BramStoker/src/com/bramstoker/view/mediator/MediaPlayerViewMediator.as
+END
+HotspotsViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sfm_horror_manuscript/!svn/ver/88/BramStoker/src/com/bramstoker/view/mediator/HotspotsViewMediator.as
+END
+ArtifactViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/view/mediator/ArtifactViewMediator.as
+END
+ArtifactContainerViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/view/mediator/ArtifactContainerViewMediator.as
+END
+ClickSoundAudioMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/view/mediator/ClickSoundAudioMediator.as
+END
+GoogleViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/view/mediator/GoogleViewMediator.as
+END
+TopNavigationViewMediator.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/sfm_horror_manuscript/!svn/ver/89/BramStoker/src/com/bramstoker/view/mediator/TopNavigationViewMediator.as
+END

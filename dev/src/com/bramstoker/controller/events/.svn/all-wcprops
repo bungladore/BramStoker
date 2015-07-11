@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events
+END
+BloodEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events/BloodEvent.as
+END
+SoundEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events/SoundEvent.as
+END
+ArtifactEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events/ArtifactEvent.as
+END
+IdleEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events/IdleEvent.as
+END
+NavigationEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events/NavigationEvent.as
+END
+MediaPlayerEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events/MediaPlayerEvent.as
+END
+TitleEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events/TitleEvent.as
+END
+GoogleEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/bramstoker/controller/events/GoogleEvent.as
+END

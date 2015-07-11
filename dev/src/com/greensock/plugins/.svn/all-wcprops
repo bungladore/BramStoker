@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins
+END
+FramePlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/FramePlugin.as
+END
+HexColorsPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/HexColorsPlugin.as
+END
+TweenPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/TweenPlugin.as
+END
+ScalePlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/ScalePlugin.as
+END
+CirclePath2DPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/CirclePath2DPlugin.as
+END
+GlowFilterPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/GlowFilterPlugin.as
+END
+CacheAsBitmapPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/CacheAsBitmapPlugin.as
+END
+RoundPropsPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/RoundPropsPlugin.as
+END
+StageQualityPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/StageQualityPlugin.as
+END
+BezierPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/BezierPlugin.as
+END
+RemoveTintPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/RemoveTintPlugin.as
+END
+EndArrayPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/EndArrayPlugin.as
+END
+EndVectorPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/EndVectorPlugin.as
+END
+SoundTransformPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/SoundTransformPlugin.as
+END
+FilterPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/FilterPlugin.as
+END
+QuaternionsPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/QuaternionsPlugin.as
+END
+VisiblePlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/VisiblePlugin.as
+END
+ScrollRectPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/ScrollRectPlugin.as
+END
+FrameBackwardPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/FrameBackwardPlugin.as
+END
+TransformMatrixPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/TransformMatrixPlugin.as
+END
+ColorTransformPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/ColorTransformPlugin.as
+END
+DropShadowFilterPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/DropShadowFilterPlugin.as
+END
+FrameLabelPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/FrameLabelPlugin.as
+END
+BezierThroughPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/BezierThroughPlugin.as
+END
+SetSizePlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/SetSizePlugin.as
+END
+BlurFilterPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/BlurFilterPlugin.as
+END
+ColorMatrixFilterPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/ColorMatrixFilterPlugin.as
+END
+TintPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/TintPlugin.as
+END
+ShortRotationPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/ShortRotationPlugin.as
+END
+VolumePlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/VolumePlugin.as
+END
+FrameForwardPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/FrameForwardPlugin.as
+END
+BevelFilterPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/BevelFilterPlugin.as
+END
+SetActualSizePlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/SetActualSizePlugin.as
+END
+AutoAlphaPlugin.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/sfm_horror_manuscript/!svn/ver/65/BramStoker/src/com/greensock/plugins/AutoAlphaPlugin.as
+END

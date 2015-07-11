@@ -1,0 +1,41 @@
+10
+
+dir
+80
+https://bwco.svn.beanstalkapp.com/sfm_horror_manuscript/BramStoker/src/com/bramstoker/view
+https://bwco.svn.beanstalkapp.com/sfm_horror_manuscript
+
+
+
+2012-01-24T22:03:36.478911Z
+80
+marcelr
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f12c7a24-cc16-42c8-bc19-90c40c4af151
+
+
+
+
+
+
+0
+
+component
+dir
+
+mediator
+dir
+
